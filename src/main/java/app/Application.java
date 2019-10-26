@@ -7,6 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Spring boot application which is annotated by @SpringBootApplication
+//Its inbuild defined
 @SpringBootApplication
 public class Application {
     public static void main(String[] args) throws Exception {
